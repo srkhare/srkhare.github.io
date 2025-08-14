@@ -67,11 +67,25 @@
     
     <h2>Courses taught at IIT Kharagpur</h2>
     <ol>
-
+  <li>MA10001: Advanced Calculus (Under-graduate level)</li>
+  <li>MA20104: Probability and Statistics (Under-graduate level)</li>
+  <li>MA30003: Linear Algebra (Under-graduate level)</li>
+  <li>MA60049: Computational Statistics (Post-graduate level)</li>
+  <li>MA60053: Computational Linear Algebra (Post-graduate level)</li>
+  <li>MA60059: Advanced Numerical Analysis (Post-graduate level)</li>
+  <li>MA60056: Regression and Time Series Models (Post-graduate level)</li>
+  <li>MA60213: Convex Optimization (Post-graduate level)</li>
+  <li>AI61003: Linear Algebra for AI and ML (Post-graduate level)</li>
     </ol>
 
+<h2>Courses taught at University of Alberta</h2>
+<ol>
+ChE674: Numerical methods for engineers (Post-graduate level)
+</ol>
 
-  <footer>
+ </section>
+
+<footer>
     &copy; IIT Kharagpur – Department of Mathematics
   </footer>
 
